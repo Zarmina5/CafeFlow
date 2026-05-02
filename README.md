@@ -52,6 +52,7 @@ I created this project for learning purposes to understand:
 ## 📷 Output
 
 The project shows a cafe menu on one side and generates the receipt on the other side.
+https://github.com/Zarmina5/CafeFlow/blob/af7d2cb726764ccada3803bd9f9719c5f879d580/Screenshot%202026-05-02%20142425.png
 
 ## 💡 Future Improvements
 
